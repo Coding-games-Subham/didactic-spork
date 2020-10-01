@@ -35,7 +35,7 @@ function draw() {
   ellipseMode(RADIUS);
   
   
-  ball.display();
+ 
  ground.display();
  
  log2.display();
