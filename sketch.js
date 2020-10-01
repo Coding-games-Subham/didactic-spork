@@ -39,7 +39,7 @@ function draw() {
  ground.display();
  
  log2.display();
- 
+  ball.display();
  
  
 }
